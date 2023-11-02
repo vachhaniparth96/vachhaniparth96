@@ -7,6 +7,7 @@ Looks like your recent web adventures have brought you here. Hello! 👋🏾 I'm
 * I have an undergraduate and graduate degree in Biomedical Engineering 🔬🧬
 * I'm a big foodie. If you know a great place to eat, feel free to let me know! 🍱
 * If I had the option to do anything I wanted without having money be an issue, I would spend a month at a time living in different parts of the globe 🌎✈️
+* Mythology is my favorite subject to learn about
 
 I'm currently a student in a Software Engineering Immersive program at General Assembly learning everything I'll need to know before to throw myself out into the tech field and truly learn how to swim. 
 
